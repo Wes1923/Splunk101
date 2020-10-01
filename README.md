@@ -1,5 +1,4 @@
 # Splunk101
-## Splunk 101
 
 #### URL Links
 Splunk Official Quick Reference Guide
